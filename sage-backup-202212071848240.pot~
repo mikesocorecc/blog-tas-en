@@ -1,0 +1,297 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog tas consultoria\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-02 22:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: sage"
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:56
+msgid " Pide tu presupuesto"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:10
+msgid "a la biblioteca"
+msgstr ""
+
+#: functions.php:50
+msgid "Acorn Docs: Installation"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:70
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:80
+msgid "AQUÍ"
+msgstr ""
+
+#. Description of the theme
+msgid "Blog para la empresa tas consultoria ."
+msgstr ""
+
+#. Name of the theme
+msgid "Blog tas consultoria"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:21
+msgid "Blogs"
+msgstr ""
+
+#: storage/framework/views/d0ecdf26f69a28c24b32fc734b4349e0af5296a9.php:34
+#: storage/framework/views/98edd0a45df282932b02bc17e55e0d24f86a8d4c.php:71
+#: storage/framework/views/1c59c137495c9292fdce7e99846c64cb72f6ade1.php:71
+msgid "Buscar"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:32
+msgid "Calle Floridablanca, n98 (Entresuelo 2a) 08015 Barcelona, Espagne"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:34
+msgid "Categorías"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:2
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:154
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:47
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:178
+msgid "Completa el siguiente formulario"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:53
+msgid "con nuestro equipo "
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:44
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:206
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:91
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:230
+msgid "consulta la Política de Privacidad de TAS Consultoría"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:15
+msgid "Contabilidad"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:52
+msgid "Contacta"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:17
+msgid "Contactanos"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:30
+msgid "Contacto"
+msgstr ""
+
+#: app/filters.php:15
+msgid "Continued"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:16
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:169
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:63
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:193
+msgid "Correo electrónico"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:13
+msgid "Creacion de empresas"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:54
+msgid "de asesores"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:67
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:77
+msgid "Descarga gratis"
+msgstr ""
+
+#: storage/framework/views/772a04f62f8a072e9769da6a40b85358730bcc58.php:23
+msgid "Encuentra aquí"
+msgstr ""
+
+#. %s is replaced with the relative file path
+#: functions.php:72
+#, php-format
+msgid "Error locating <code>%s</code> for inclusion."
+msgstr ""
+
+#: functions.php:25
+msgid "Error locating autoloader. Please run <code>composer install</code>."
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:14
+msgid "Fiscalidad"
+msgstr ""
+
+#: resources/views/page-gracias-tee.blade.php:10
+#: resources/views/page-gracias-prie.blade.php:10
+msgid "Gracias"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:59
+msgid "gratis"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:4
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:49
+msgid "guía sobre el PRIE"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://miu.dev/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.tas-consultoria.com/blog-es/"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:52
+msgid "Introduzca su E-mail"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:18
+msgid "Introduzca su Email"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:78
+msgid "la Guía Programa de residencia para inversores y emprendedores"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:68
+msgid "la Guía Práctica del Emprendedor en España"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:12
+msgid ""
+"La mejor fuente de información\n"
+"            con útiles consejos y guías"
+msgstr ""
+
+#: storage/framework/views/772a04f62f8a072e9769da6a40b85358730bcc58.php:24
+msgid "Los contenidos que necesitas"
+msgstr ""
+
+#. Author of the theme
+msgid "Mike Socorec"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:10
+msgid "Muchas Gracias"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:10
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:163
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:57
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:187
+msgid "Nombre"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:30
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:177
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:77
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:201
+msgid "Nombre de la empresa"
+msgstr ""
+
+#: storage/framework/views/772a04f62f8a072e9769da6a40b85358730bcc58.php:25
+msgid "para instalar tu negocio en España"
+msgstr ""
+
+#: storage/framework/views/657431f9e09dcc84ad25a69d953a46135efe596a.php:7
+msgid "por"
+msgstr ""
+
+#: storage/framework/views/657431f9e09dcc84ad25a69d953a46135efe596a.php:7
+msgid "Publicado el"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:16
+msgid "Quienes somos"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:50
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:212
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:97
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:236
+msgid "Quiero la guía"
+msgstr ""
+
+#: storage/framework/views/772a04f62f8a072e9769da6a40b85358730bcc58.php:29
+msgid "Qué te ha parecido este contenido"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:24
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:191
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:71
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:215
+msgid "Sitio web de la empresa"
+msgstr ""
+
+#: storage/framework/views/1027b272bc4aaa9c3c026c8a1af78ce104ef0fbb.php:11
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:19
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:53
+msgid "Suscribirse"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:10
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:14
+msgid "Suscríbete"
+msgstr ""
+
+#: storage/framework/views/8b37b188d871053efd62c49da93d9a4a08d38416.php:51
+msgid "Suscríbete a la biblioteca"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:38
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:200
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:85
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:224
+msgid "Suscríbete a nuestra newsletter"
+msgstr ""
+
+#: storage/framework/views/ea27c8ce572cde7ca81c0f69f90ffd4b50a267b5.php:22
+msgid ""
+"También deseo recibir correos electrónicos de productos y servicios de TAS\n"
+"                    Consultoría. (Puede cancelar la suscripción cuando desee)"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:44
+#: storage/framework/views/ed5ab3a77b967bd7fa14cf8ac2c65864cd6084dc.php:206
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:91
+#: storage/framework/views/8d23c4ade7beb1fec856fdd11fe63447e3a31d08.php:230
+msgid ""
+"TAS Consultoría utiliza la información que proporcionas para comunicarte "
+"contenidos, productos y servicios relevantes para ti. TAS Consultoría no "
+"compartirá esta información ni la utilizará sin tu consentimiento. Puedes "
+"darte de baja para dejar de recibir notificaciones. Para más información"
+msgstr ""
+
+#: storage/framework/views/98edd0a45df282932b02bc17e55e0d24f86a8d4c.php:6
+#: storage/framework/views/8772976e1c387226c5475710121d46fd7ee7d8bc.php:6
+#: storage/framework/views/1c59c137495c9292fdce7e99846c64cb72f6ade1.php:6
+msgid "Volver a"
+msgstr ""
+
+#: storage/framework/views/2f4dbbbad0ef1cf10c96ac47f33e7d3a9ce85c32.php:3
+#: storage/framework/views/16d286015ee168b9b97dd8893d9d2d4319a0ec43.php:48
+msgid "y prepárate para disfrutar de nuestra"
+msgstr ""
+
+#: functions.php:46
+msgid "You need to install Acorn to use this theme."
+msgstr ""

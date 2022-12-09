@@ -1,0 +1,1194 @@
+# Copyright (C) 2022 Mike Socorec
+# This file is distributed under the MIT License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog tas consultoria 10.3.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blog-tas\n"
+"Last-Translator: Jonatan Carbonell\n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-07T12:53:59-06:00\n"
+"PO-Revision-Date: 2022-12-07 18:59+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: sage\n"
+"\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#. Theme Name of the theme
+msgid "Blog tas consultoria"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.tas-consultoria.com/blog-es/"
+msgstr ""
+
+#. Description of the theme
+msgid "Blog para la empresa tas consultoria."
+msgstr ""
+
+#. Author of the theme
+msgid "Mike Socorec"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://miu.dev/"
+msgstr ""
+
+#: app/filters.php:15
+msgid "Continued"
+msgstr ""
+
+#. Template Name of the theme
+msgid "pagina gracias cee"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:11
+msgid "Muchas Gracias"
+msgstr ""
+
+#. Template Name of the theme
+msgid "pagina gracias prie"
+msgstr ""
+
+#: resources/views/page-gracias-prie.blade.php:11
+#: resources/views/page-gracias-tee.blade.php:11
+msgid "Gracias"
+msgstr ""
+
+#. Template Name of the theme
+msgid "pagina gracias tee"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso cee"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso info arrendar en españa"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso info mueble"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso nif"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso prie"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Custom Template recurso tee"
+msgstr ""
+
+#: resources/views/404.blade.php:8
+msgid "Lo siento, pero la página que está intentando ver no existe."
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:6
+msgid "Descarga tu contenido predilecto"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:7
+msgid "cuando lo necesites"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:13
+msgid "Infografía"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:14
+msgid "ALQUILERES EN ESPAÑA"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:15
+msgid "PARA EXTRANJEROS"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:16
+msgid "DESCARGAR"
+msgstr ""
+
+#: resources/views/archive-recursos.blade.php:29
+#: resources/views/sections/sidebar.blade.php:33
+msgid "Categorías"
+msgstr ""
+
+#: resources/views/category.blade.php:5
+msgid "Categoria"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:2
+#: resources/views/template-recurso-cee.blade.php:101
+#: resources/views/template-recurso-prie.blade.php:50
+#: resources/views/template-recurso-tee.blade.php:102
+msgid "Completa el siguiente formulario"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:3
+#: resources/views/template-recurso-prie.blade.php:51
+msgid "y prepárate para disfrutar de nuestra"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:4
+#: resources/views/template-recurso-prie.blade.php:52
+msgid "guía sobre el PRIE"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:10
+#: resources/views/template-recurso-cee.blade.php:110
+#: resources/views/template-recurso-prie.blade.php:61
+#: resources/views/template-recurso-tee.blade.php:111
+msgid "Nombre"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:16
+#: resources/views/template-recurso-cee.blade.php:116
+#: resources/views/template-recurso-prie.blade.php:67
+#: resources/views/template-recurso-tee.blade.php:117
+msgid "Correo electrónico"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:24
+#: resources/views/template-recurso-cee.blade.php:138
+#: resources/views/template-recurso-prie.blade.php:75
+#: resources/views/template-recurso-tee.blade.php:139
+msgid "Sitio web de la empresa"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:30
+#: resources/views/template-recurso-cee.blade.php:124
+#: resources/views/template-recurso-prie.blade.php:81
+#: resources/views/template-recurso-tee.blade.php:125
+msgid "Nombre de la empresa"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:38
+#: resources/views/template-recurso-cee.blade.php:147
+#: resources/views/template-recurso-prie.blade.php:89
+#: resources/views/template-recurso-tee.blade.php:148
+msgid "Suscríbete a nuestra newsletter"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:44
+#: resources/views/template-recurso-cee.blade.php:153
+#: resources/views/template-recurso-prie.blade.php:95
+#: resources/views/template-recurso-tee.blade.php:154
+msgid ""
+"TAS Consultoría utiliza la información que proporcionas para comunicarte "
+"contenidos, productos y servicios relevantes para ti. TAS Consultoría no "
+"compartirá esta información ni la utilizará sin tu consentimiento. Puedes "
+"darte de baja para dejar de recibir notificaciones. Para más información"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:44
+#: resources/views/template-recurso-cee.blade.php:154
+#: resources/views/template-recurso-prie.blade.php:95
+#: resources/views/template-recurso-tee.blade.php:154
+msgid "consulta la Política de Privacidad de TAS Consultoría"
+msgstr ""
+
+#: resources/views/components/form-recurso.blade.php:50
+#: resources/views/template-recurso-cee.blade.php:165
+#: resources/views/template-recurso-tee.blade.php:165
+msgid "Quiero la guía"
+msgstr ""
+
+#: resources/views/forms/search.blade.php:4
+#: resources/views/partials/menu-movil.blade.php:63
+#: resources/views/sections/header-infografias.blade.php:100
+#: resources/views/sections/header-secondary.blade.php:100
+msgid "Buscar:"
+msgstr ""
+
+#: resources/views/forms/search.blade.php:11
+#: resources/views/partials/menu-movil.blade.php:69
+#: resources/views/sections/header-infografias.blade.php:105
+#: resources/views/sections/header-secondary.blade.php:105
+msgid "Haz una búsqueda aquí"
+msgstr ""
+
+#: resources/views/layouts/app.blade.php:2
+#: resources/views/layouts/layout-full.blade.php:2
+#: resources/views/layouts/layout-single-footer.blade.php:2
+msgid "saltar al contenido"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:12
+msgid "Tu archivo está listo"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:13
+#: resources/views/page-gracias-prie.blade.php:13
+#: resources/views/page-gracias-tee.blade.php:14
+msgid "Accede a la guía"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:28
+#: resources/views/page-gracias-prie.blade.php:28
+#: resources/views/page-gracias-tee.blade.php:29
+msgid "También podría interesarte"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:32
+#: resources/views/page-gracias-cee.blade.php:38
+#: resources/views/page-gracias-cee.blade.php:46
+#: resources/views/page-gracias-prie.blade.php:33
+#: resources/views/page-gracias-prie.blade.php:38
+#: resources/views/page-gracias-prie.blade.php:43
+#: resources/views/page-gracias-tee.blade.php:33
+#: resources/views/page-gracias-tee.blade.php:38
+#: resources/views/page-gracias-tee.blade.php:43
+msgid "Conoce"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:34
+#: resources/views/page-gracias-prie.blade.php:34
+#: resources/views/page-gracias-tee.blade.php:34
+msgid ""
+"Facturación electrónica: la nueva normativa obligatoria para empresas "
+"españolas"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:40
+#: resources/views/page-gracias-prie.blade.php:39
+#: resources/views/page-gracias-tee.blade.php:39
+msgid "Novedades en la declaración del IRPF en España"
+msgstr ""
+
+#: resources/views/page-gracias-cee.blade.php:47
+#: resources/views/page-gracias-prie.blade.php:44
+#: resources/views/page-gracias-tee.blade.php:44
+msgid "Guía básica para importar a España"
+msgstr ""
+
+#: resources/views/page-gracias-prie.blade.php:12
+#: resources/views/page-gracias-tee.blade.php:12
+msgid "Tu contenido está listo"
+msgstr ""
+
+#: resources/views/partials/comments.blade.php:7
+msgctxt "comments title"
+msgid "One"
+msgstr ""
+
+#: resources/views/partials/comments.blade.php:21
+msgid "&larr; Comentarios antiguos"
+msgstr ""
+
+#: resources/views/partials/comments.blade.php:28
+msgid "Comentarios mas nuevos &rarr;"
+msgstr ""
+
+#: resources/views/partials/comments.blade.php:39
+msgid "los comentarios están cerrados."
+msgstr ""
+
+#: resources/views/partials/content-page.blade.php:3
+msgid "Páginas:"
+msgstr ""
+
+#: resources/views/partials/content-search.blade.php:11
+#: resources/views/partials/content.blade.php:10
+msgid "Leer más <span class=\"bg-red-500\">&rarr;</span>"
+msgstr ""
+
+#: resources/views/partials/content-search.blade.php:52
+#: resources/views/partials/content.blade.php:55
+msgid "Leer más <span class=\"\">&rarr;</span>"
+msgstr ""
+
+#: resources/views/partials/content-single.blade.php:22
+msgid "Encuentra aquí"
+msgstr ""
+
+#: resources/views/partials/content-single.blade.php:23
+msgid "Los contenidos que necesitas"
+msgstr ""
+
+#: resources/views/partials/content-single.blade.php:24
+msgid "para instalar tu negocio en España"
+msgstr ""
+
+#: resources/views/partials/content-single.blade.php:28
+msgid "Qué te ha parecido este contenido"
+msgstr ""
+
+#: resources/views/partials/entry-meta.blade.php:7
+msgid "Publicado el"
+msgstr ""
+
+#: resources/views/partials/entry-meta.blade.php:7
+msgid "por"
+msgstr ""
+
+#: resources/views/partials/menu-movil.blade.php:34
+#: resources/views/sections/header-infografias.blade.php:72
+#: resources/views/sections/header-secondary.blade.php:72
+msgid "Buscar"
+msgstr ""
+
+#: resources/views/search.blade.php:8
+msgid "Lo sentimos, no se encontraron resultados."
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:6
+msgid ""
+"El equipo de Tas Consultoría le ayuda a constituir una empresa en España en "
+"sólo 24 horas. A continuación, le ayudaremos con los trámites "
+"administrativos, contables, sociales y fiscales"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:11
+msgid "Menu"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:13
+msgid "Creacion de empresas"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:14
+msgid "Fiscalidad"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:15
+msgid "Contabilidad"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:16
+msgid "Quienes somos"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:17
+msgid "Contactanos"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:21
+msgid "Blogs"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:30
+msgid "Contacto"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:32
+msgid "Calle Floridablanca, n98 (Entresuelo 2a) 08015 Barcelona, Espagne"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:51
+msgid "Suscríbete a la biblioteca"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:52
+msgid "Introduzca su E-mail"
+msgstr ""
+
+#: resources/views/sections/footer.blade.php:53
+#: resources/views/sections/sidebar.blade.php:18
+msgid "Suscribirse"
+msgstr ""
+
+#: resources/views/sections/header-infografias.blade.php:6
+#: resources/views/sections/header-secondary.blade.php:6
+#: resources/views/sections/header.blade.php:6
+msgid "Volver a"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:8
+#: resources/views/sections/sidebar.blade.php:12
+msgid "Suscríbete"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:9
+msgid "a la biblioteca"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:11
+msgid "La mejor fuente de información con útiles consejos y guías"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:16
+msgid "Introduzca su Email"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:22
+msgid ""
+"También deseo recibir correos electrónicos de productos y servicios de TAS "
+"Consultoría. (Puede cancelar la suscripción cuando desee)"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:52
+msgid "Contacta"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:53
+msgid "con nuestro equipo "
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:54
+msgid "de asesores"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:56
+msgid "Pide tu presupuesto"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:60
+msgid "gratis"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:68
+#: resources/views/sections/sidebar.blade.php:80
+msgid "Descarga gratis"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:69
+msgid "la Guía Práctica del Emprendedor en España"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:73
+#: resources/views/sections/sidebar.blade.php:85
+msgid "AQUÍ"
+msgstr ""
+
+#: resources/views/sections/sidebar.blade.php:82
+msgid "la Guía Programa de residencia para inversores y emprendedores"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:10
+msgid "¿Cómo puedes crear"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:11
+msgid "una empresa en España?"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:23
+msgid ""
+"A modo de instrumento de referencia, si tienes en mente crear una empresa, "
+"esta guía práctica recoge todos los aspectos que tú, como emprendedor, "
+"deberás tener en cuenta para llevar a cabo tu iniciativa. Esta guía práctica "
+"del emprendedor ha sido redacta con el fin de aconsejarte, ayudarte y "
+"acompañarte en tu viaje de crear tu propia empresa en España"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:27
+msgid ""
+"Abrir una empresa requiere de más que una buena idea, porque conforme "
+"avanzas en el proceso, las cosas aumentan en dificultad y de pronto estás "
+"tratando de entender un montón de cosas nuevas que antes quizá ni "
+"sospechabas que existían."
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:31
+msgid ""
+"En esta nueva Guía del emprendedor en España, encontrarás toda la "
+"información necesaria sobre las formas jurídicas que existen y los distintos "
+"criterios que te servirán para una mejor elección de la misma. Asimismo, "
+"tendrás a tu disposición la lista de pasos para ponerla en marcha junto a la "
+"información fiscal, contable y laboral necesaria una vez comenzada tu "
+"actividad empresarial."
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:36
+#: resources/views/template-recurso-tee.blade.php:35
+msgid "Descarga nuestra guía"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:37
+#: resources/views/template-recurso-tee.blade.php:36
+msgid "y elige el modelo de empresa"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:38
+#: resources/views/template-recurso-tee.blade.php:37
+msgid "que mejor se ajuste a tu negocio"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:47
+#: resources/views/template-recurso-tee.blade.php:46
+msgid "Qué contenido encontrarás en esta guía"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:52
+msgid "La preparación inicial para la creación de tu empresa en España"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:59
+msgid "Cómo elegir la forma jurídica adecuada"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:66
+msgid "Información sobre los trámites para crear la empresa"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:73
+msgid " Datos valiosos sobre la fiscalidad "
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:80
+msgid "Imposiciones tributarias de acuerdo a la forma jurídica que elijas"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:87
+msgid " Aspectos más relevantes para el establecimiento de tu empresa"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:93
+msgid ""
+"Este contenido es apto para cualquier persona, sin importar su nivel "
+"académico, socioeconómico o nacionalidad."
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:102
+#: resources/views/template-recurso-tee.blade.php:103
+msgid "para acceder al contenido y conocer todo sobre la factura electrónica"
+msgstr ""
+
+#: resources/views/template-recurso-cee.blade.php:130
+#: resources/views/template-recurso-tee.blade.php:131
+msgid "Núcleo de empleados"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:12
+msgid "Cómo arrendar"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:13
+msgid "un local"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:16
+msgid "en España "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:36
+msgid "Qué es un contrato "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:40
+msgid "de arrendamiento comercial"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:43
+msgid ""
+"Es un documento que regula la relación entre el arrendatario y el "
+"propietario del local, o arrendador.  Durante este proceso de alquiler de un "
+"local en España, el arrendador se compromete a proporcionar al arrendatario "
+"el uso de un inmueble a cambio de una contraprestación. "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:52
+msgid "El alquiler"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:56
+msgid ""
+"En general, el alquiler de un local comercial en España se paga mensualmente,"
+" en la primera semana del mes. "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:61
+msgid ""
+" El arrendador no puede exigir el pago por adelantado de más de un mes de "
+"alquiler. El importe, el lugar y la forma de pago deben ser definidos "
+"libremente por las partes en el contrato. "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:65
+msgid ""
+" La revisión del alquiler, el aumento o la disminución, se produce "
+"anualmente durante los primeros 5 años según el IPC (tasa de inflación)."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:69
+msgid ""
+" Salvo acuerdo en contrario de las partes, la fianza será igual a dos meses "
+"de alquiler. La fianza se revisa, al igual que el alquiler, al cabo de 5 "
+"años."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:80
+msgid "Como realizar"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:84
+msgid "un contrato de arrendamiento"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:87
+msgid "Identidad del propietario del local"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:88
+msgid "Identidad del inquilino"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:89
+msgid "Descripción del local"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:90
+msgid "Duración del contrato"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:91
+msgid "Alquiler acordado por las partes"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:92
+msgid "Cláusulas establecidas"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:100
+msgid "Requisitos para"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:104
+msgid "arrendar un local comercial en España"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:107
+msgid "El contrato de arrendamiento deberá estar acompañado de:"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:111
+msgid "Licencia de actividad "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:112
+#: resources/views/template-recurso-info-mueble.blade.php:80
+msgid "Certificado de eficiencia energética"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:113
+msgid "Plan de negocios"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:120
+msgid "Rescisión del contrato "
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:122
+msgid "y subarriendo"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:129
+msgid ""
+"Cuando el objeto de un contrato de alquiler es el ejercicio de una actividad "
+"comercial o profesional en el local, el arrendatario es libre de ceder o "
+"subarrendar el contrato, no será necesario obtener el consentimiento previo "
+"del arrendador."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:136
+msgid ""
+"No obstante, el arrendatario está obligado a informar al arrendador por "
+"escrito con un mes de antelación e indicar los datos de la persona que va a "
+"subarrendar el inmueble. En caso contrario de no notificar, el arrendador "
+"podría solicitar nulidad del subarriendo ante el juzgado."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:143
+msgid ""
+"En el caso de un subarriendo parcial, el arrendador puede aumentar la renta "
+"en un máximo del 10%, o del 20% en el caso de un subarriendo o cesión total."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:150
+msgid ""
+"Por su parte, si dentro de las condiciones del contrato de arrendamiento se "
+"especifica que está prohibido actividades de subarriendo, el inquilino no "
+"tendrá permitido realizar está acción bajo ninguna circunstancia."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:162
+msgid ""
+"El arrendamiento comercial puede hacerse tácito en los siguientes casos:"
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:168
+msgid "El impago de la fianza o del alquiler."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:172
+msgid "No informar al propietario en caso de subarriendo."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:176
+msgid ""
+"Realización de obras sin el consentimiento del propietario. Daños "
+"intencionados a las instalaciones."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:180
+msgid ""
+"Realización de actividades ilegales, nocivas o insalubres en los locales."
+msgstr ""
+
+#: resources/views/template-recurso-info-arrendar.blade.php:184
+msgid ""
+"Incumplimiento de los trabajos de mantenimiento por parte del inquilino."
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:13
+msgid "Cómo comprar o alquilar un inmueble en España"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:14
+msgid "si soy extranjero"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:26
+msgid "Comprar"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:31
+msgid ""
+"Si te interesa comprar una propiedad o un piso primero asegúrate de tener a "
+"la mano cierta información"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:39
+msgid "Últimos recibos al día"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:43
+msgid ""
+"Consulta el Registro de propiedad y los últimos recibos correspondientes. "
+"Así evitaras sorpresas en futuros recargos económicos"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:52
+msgid "Cédula de habitabilidad"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:56
+msgid ""
+"Por último asegúrate de que el inmueble cuente con una cédula de "
+"habitabilidad"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:67
+msgid "Impuesto Sobre Bienes Inmuebles"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:71
+#: resources/views/template-recurso-info-mueble.blade.php:84
+msgid ""
+"Para ello, también puedes solicitar el último recibo del Impuesto Sobre "
+"Bienes Inmuebles"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:95
+msgid "Qué documentos son necesarios"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:99
+msgid ""
+"Número de Identificación Extranjero (NIE) Banco español Contrato de arras "
+"Notario Público Representante fiscal "
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:110
+msgid "Alquilar"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:115
+msgid ""
+"Si en tu caso, te interesa únicamente alquilar un piso, por lo general los "
+"contratos tienen una duración mínima de un año y los requisitos son los "
+"siguientes "
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:123
+msgid ""
+"Pasaporte de la Comunidad europea /NIE / tarjeta de residencia de extranjero"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:127
+msgid ""
+"Para alquilar necesitarás un documento que te identifique : puede ser "
+"pasaporte de la Comunidad europea, NIE  o tarjeta de residencia de "
+"extranjero En algunos casos, el propietario solicitará que firmen el "
+"contrato todos los mayores de edad que habitarán en el inmueble"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:137
+msgid "Depósito / fianza"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:141
+msgid ""
+"Es necesario que canceles un mes por adelantado, y pagues un depósito o "
+"fianza, el cual habitualmente corresponde a 2 meses de alquiler "
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:150
+msgid "Comisión por inmobiliaria"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:154
+msgid ""
+"Y, si estás realizando el trámite a través de una inmobiliaria, esta "
+"solicitará un mes de comisión"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:166
+msgid "Contrato de trabajo"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:170
+msgid ""
+"Además, deberás contar con un contrato de trabajo  y poseer las ultimas "
+"nominas en la que se justifican tus ingresos  "
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:179
+msgid "Avalista"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:183
+msgid ""
+"Por último, dependiendo del dueño del inmueble es posible que necesites de "
+"un avalista para realizar el contrato, el cual cumplirá función de fiador y "
+"representante "
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:194
+msgid ""
+"Ahora que ya has conocido cómo puedes comprar o alquilar un inmueble en "
+"España"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:198
+msgid "Qué esperas para iniciar tu aventura y adquirir"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:202
+msgid "la propiedad de tus sueños"
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:206
+msgid ""
+"Nuestros expertos en TAS Consultoría están listos para asesorarte en cada "
+"paso que des."
+msgstr ""
+
+#: resources/views/template-recurso-info-mueble.blade.php:210
+msgid ""
+"Tú solo dinos en qué ciudad te gustaría instalarte y nosotros nos encargamos "
+"del resto"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:15
+msgid "Qué es el"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:18
+msgid "El Número de Identificación Fiscal"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:19
+msgid "es el código único que sirve"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:20
+msgid "para identificar a las personas físicas"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:21
+msgid "o jurídicas a efectos fiscales, por"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:22
+msgid "lo que es necesario para realizar"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:23
+msgid "cualquier trámite fiscal en territorio"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:24
+msgid "español"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:27
+msgid "El NIF es obligatorio y una garantía"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:28
+msgid "para cualquier relación comercial"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:29
+msgid "ya que está vinculado a una"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:30
+msgid "dirección registrada, por lo que"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:31
+msgid "puede ser rastreado y su"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:32
+msgid "autenticidad verificada"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:52
+msgid "Tipos de"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:56
+msgid "para empresas"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:58
+msgid ""
+"En el caso de las empresas, la solicitud del NIF debe realizarse ante la "
+"Agencia Tributaria exactamente un mes después de la fecha de registro de la "
+"persona jurídica, es decir, un mes después de la creación de la empresa. De "
+"hecho, sin este documento, la empresa no existe a efectos fiscales."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:61
+msgid ""
+"Se podría decir, por tanto, que el NIF es como el \"carné de identidad\" de "
+"las empresas. Existen diferentes formatos para identificar cada tipo de NIF, "
+"no sólo a nivel de persona física o jurídica, sino con una serie de "
+"variantes que indican las características específicas del titular."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:69
+msgid "para particulares"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:69
+msgid "y autónomos"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:71
+msgid ""
+"El NIF de las personas físicas es el mismo código que el de su documento de "
+"identidad, en el caso de los ciudadanos españoles será el del DNI y en el "
+"caso de los extranjeros residentes en España será el del NIE."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:83
+msgid "Para que sirve el "
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:85
+msgid "Para qué sirve el"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:86
+msgid "Como hemos dicho"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:87
+msgid " el Número de Identificación"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:88
+msgid "Fiscal es necesario para"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:89
+msgid "cualquier tipo de operación"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:90
+msgid " económica, ya que todas ellas"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:91
+msgid "deben ser declaradas"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:92
+msgid "a la Agencia Tributaria"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:102
+msgid "Cuándo se utiliza el"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:103
+msgid " En concreto, el"
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:103
+msgid ""
+"debe aparecer en: Facturas emitidas por cualquier empresa o profesional "
+"establecido en España."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:108
+msgid "Recibo o pago a cualquier trabajador dependiente en España."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:115
+msgid ""
+"Recepción o pago de capitales mobiliarios en España o de bienes o valores "
+"situados en España."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:122
+msgid " Transferencia o adquisición de valores."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:129
+msgid "Adquisición de activos financieros con rentabilidad implícita."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:136
+msgid ""
+"Actos o documentos de constitución, adquisición, transmisión,\n"
+"              modificación o extinción de derechos reales sobre bienes "
+"inmuebles."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:144
+msgid "Operaciones con entidades de crédito."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:151
+msgid "Aportación o percepción de planes de pensiones."
+msgstr ""
+
+#: resources/views/template-recurso-nif.blade.php:158
+msgid "Seguros o transacciones financieras."
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:13
+msgid "Estás un paso más cerca"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:14
+msgid "para Invertir"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:14
+msgid "en España"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:15
+msgid "El Programa para Inversores y Emprendedores"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:15
+msgid "puede ser tu gran aliado para lograrlo"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:16
+msgid "Descubre de qué se trata con esta guía completa"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:30
+msgid "Tienes dudas sobre el proceso de solicitud a este programa"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:33
+msgid "Esta guía contiene"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:38
+msgid "Tipos de permisos que puedes solicitar con el PRIE"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:39
+msgid "Documentos y requisitos necesarios"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:40
+msgid "Categorías que incluye el programa"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:41
+msgid "Cómo debe ser el perfil del solicitante"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:42
+msgid "Qué debe contener el plan de negocios"
+msgstr ""
+
+#: resources/views/template-recurso-prie.blade.php:43
+msgid "Modalidades del traslado intraempresarial"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:10
+msgid "¿Cuál es el tipo de empresa que se ajusta"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:11
+msgid "a tu modelo de negocio?"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:24
+msgid ""
+"Hemos decidido avanzar un poco después de que tomaste finalmente la decisión "
+"de emprender tu propia empresa y nos situamos en el momento donde debes "
+"escoger cuál es la forma jurídica que mejor se ajusta al modelo de negocio "
+"que tienes en mente."
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:27
+msgid ""
+"Abrir una empresa requiere de más que una buena idea porque conforme avanzas "
+"en el proceso, las cosas aumentan en dificultad y de pronto estás tratando "
+"de entender un montón de cosas nuevas que antes quizás ni sospechabas que "
+"existían"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:29
+msgid ""
+" Por ejemplo, los diversos tipos de empresas que puedes abrir según su forma "
+"jurídica y cuáles son las implicaciones de cada una"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:31
+msgid ""
+"En la nueva Guía del Emprendedor en España encontrarás toda la información "
+"necesaria para conocer los tipos más comunes de empresas que puedes abrir en "
+"España, sus características e implicaciones"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:51
+msgid "Tipos de empresa por su personalidad jurídica"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:58
+msgid ""
+"Aspectos a tener en cuenta al momento de elegir la forma jurídica de tu "
+"empresa"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:65
+msgid "Distintos tipos de empresa según su forma jurídica"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:72
+msgid "Tributación de los tipos de empresas y sociedades"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:78
+msgid "Capital inicial mínimo a aportar para la fundación de empresas"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:85
+msgid "La responsabilidad de las empresas y sus socios ante terceros y deudas"
+msgstr ""
+
+#: resources/views/template-recurso-tee.blade.php:92
+msgid ""
+"El número mínimo de socios permitidos para la fundación de organizaciones"
+msgstr ""
